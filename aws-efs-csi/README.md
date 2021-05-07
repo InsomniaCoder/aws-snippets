@@ -5,6 +5,7 @@ This part demonstrate how you can use EFS as Persistent Volume for your pods in 
 First you need to install efs-csi-driver into your `kube-system` namespace in your cluster
 
 https://github.com/kubernetes-sigs/aws-efs-csi-driver
+https://d1.awsstatic.com/events/reinvent/2019/Modernize_your_applications_with_containers_using_Amazon_EFS_STG312.pdf
 
 2 main installation steps are:
 
